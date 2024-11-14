@@ -1,4 +1,4 @@
-# flappy_bird
+# Flappy Bird
 
 Flappy Bird Game built using Flutter
 
