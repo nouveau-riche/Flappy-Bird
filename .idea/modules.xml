@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flappy_bird.iml" filepath="$PROJECT_DIR$/flappy_bird.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/flappy_bird_android.iml" filepath="$PROJECT_DIR$/android/flappy_bird_android.iml" />
     </modules>
   </component>
 </project>
